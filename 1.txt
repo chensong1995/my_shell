@@ -1,0 +1,5 @@
+csa102@ASB9820u-C05:~$ jobs 
+[1]+  Running                 gedit &
+csa102@ASB9820u-C05:~$ jobs -l
+[1]+ 12730 Running                 gedit &
+

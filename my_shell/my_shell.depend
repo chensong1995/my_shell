@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1475027274 source:/home/csa102/sfuhome/CMPT 300/Assignment 1/my_shell/main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+	<string.h>
+
